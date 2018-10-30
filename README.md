@@ -1,4 +1,4 @@
-# Guys, x16r ONLY! Coin is BFB(RVN).
+# Guys, BFB-Minning-pool! Coin is BFBCoin.
 
 I merged few pull requests and it supporting new nodejs versions.
 
